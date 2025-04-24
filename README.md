@@ -44,7 +44,7 @@ A real-time computer vision-based drowsiness detection system that uses facial l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drowsiness-detection.git
+   git clone https://github.com/mdaftab20089/drowsiness-detection.git
    cd drowsiness-detection
    ```
 
